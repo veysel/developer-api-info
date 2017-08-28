@@ -1,0 +1,300 @@
+{
+    "list": [
+        {
+            "name": "Google Developer",
+            "url": "https://developers.google.com/"
+        },
+        {
+            "name": "Apple Developer",
+            "url": "https://developer.apple.com/"
+        },
+        {
+            "name": "Facebook for Developers",
+            "url": "https://developers.facebook.com/"
+        },
+        {
+            "name": "GitHub Developer",
+            "url": "https://developer.github.com/"
+        },
+        {
+            "name": "Uber Developers",
+            "url": "https://developer.uber.com/"
+        },
+        {
+            "name": "Twitter Developers",
+            "url": "https://dev.twitter.com/"
+        },
+        {
+            "name": "Instagram Developer",
+            "url": "https://www.instagram.com/developer/"
+        },
+        {
+            "name": "Vimeo Developer API",
+            "url": "https://developer.vimeo.com/"
+        },
+        {
+            "name": "SurveyMonkey API Developer Portal",
+            "url": "https://developer.surveymonkey.com/"
+        },
+        {
+            "name": "Zomato API",
+            "url": "https://developers.zomato.com/"
+        },
+        {
+            "name": "Intercom API Developer",
+            "url": "https://developers.intercom.com/"
+        },
+        {
+            "name": "Shopify App Developer Program",
+            "url": "https://developers.shopify.com/"
+        },
+        {
+            "name": "Zendesk Developer Portal",
+            "url": "https://developer.zendesk.com/"
+        },
+        {
+            "name": "Unsplash API",
+            "url": "https://unsplash.com/developers"
+        },
+        {
+            "name": "Trello Developers",
+            "url": "https://developers.trello.com/"
+        },
+        {
+            "name": "Dropbox Developers",
+            "url": "https://www.dropbox.com/developers"
+        },
+        {
+            "name": "Pocket Developer API",
+            "url": "https://getpocket.com/developer/"
+        },
+        {
+            "name": "Evernote Developers",
+            "url": "https://dev.evernote.com/"
+        },
+        {
+            "name": "Discord Developer",
+            "url": "https://discordapp.com/developers/docs/intro"
+        },
+        {
+            "name": "Fitbit Developer API",
+            "url": "https://dev.fitbit.com/"
+        },
+        {
+            "name": "MailChimp Developer",
+            "url": "https://developer.mailchimp.com/"
+        },
+        {
+            "name": "Spotify developer API",
+            "url": "https://developer.spotify.com/"
+        },
+        {
+            "name": "Yammer Developer",
+            "url": "https://developer.yammer.com/"
+        },
+        {
+            "name": "Foursquare for Developers",
+            "url": "https://developer.foursquare.com/"
+        },
+        {
+            "name": "Nike Developer Portal",
+            "url": "https://developer.nike.com/"
+        },
+        {
+            "name": "LinkedIn Developer Network",
+            "url": "https://developer.linkedin.com/"
+        },
+        {
+            "name": "eBay Developers Program",
+            "url": "https://go.developer.ebay.com/"
+        },
+        {
+            "name": "Box Developers",
+            "url": "https://developer.box.com/"
+        },
+        {
+            "name": "Marvel Developer Portal",
+            "url": "https://developer.marvel.com/"
+        },
+        {
+            "name": "PayPal Developer",
+            "url": "https://developer.paypal.com/"
+        },
+        {
+            "name": "Twitch Developers",
+            "url": "https://dev.twitch.tv/"
+        },
+        {
+            "name": "OneDrive Dev Center",
+            "url": "https://dev.onedrive.com/"
+        },
+        {
+            "name": "ArcGIS for Developers",
+            "url": "https://developers.arcgis.com/"
+        },
+        {
+            "name": "Best Buy Developer Portal",
+            "url": "https://developer.bestbuy.com/"
+        },
+        {
+            "name": "Dribbble Developer",
+            "url": "http://developer.dribbble.com/"
+        },
+        {
+            "name": "Flickr Developer Guide",
+            "url": "https://www.flickr.com/services/developer/api/"
+        },
+        {
+            "name": "Android Developers",
+            "url": "https://developer.android.com/"
+        },
+        {
+            "name": "Base Developers",
+            "url": "https://developers.getbase.com/"
+        },
+        {
+            "name": "UPS Developer Kit",
+            "url": "https://www.ups.com/us/en/services/technology-integration/developer-api.page"
+        },
+        {
+            "name": "Moves for Developers",
+            "url": "https://dev.moves-app.com/"
+        },
+        {
+            "name": "Blockchain API",
+            "url": "https://blockchain.info/api/"
+        },
+        {
+            "name": "Slack API",
+            "url": "https://api.slack.com/"
+        },
+        {
+            "name": "Infogram Developers",
+            "url": "https://developers.infogr.am/rest/"
+        },
+        {
+            "name": "Wordpress Developer Resources",
+            "url": "https://developer.wordpress.com/"
+        },
+        {
+            "name": "Meetup API",
+            "url": "https://www.meetup.com/meetup_api/"
+        },
+        {
+            "name": "SoundCloud Developers",
+            "url": "https://developers.soundcloud.com/"
+        },
+        {
+            "name": "Microsoft Developer",
+            "url": "https://developer.microsoft.com/"
+        },
+        {
+            "name": "Mapbox Developers",
+            "url": "https://www.mapbox.com/developers/"
+        },
+        {
+            "name": "Viber Developers",
+            "url": "https://developers.viber.com/"
+        },
+        {
+            "name": "Chrome Developer",
+            "url": "https://developer.chrome.com/"
+        },
+        {
+            "name": "Medium Developers",
+            "url": "https://developers.medium.com/"
+        },
+        {
+            "name": "Amazon Developer",
+            "url": "https://developer.amazon.com/"
+        },
+        {
+            "name": "Gitter Developer",
+            "url": "https://developer.gitter.im/"
+        },
+        {
+            "name": "DigitalOcean API",
+            "url": "https://developers.digitalocean.com/"
+        },
+        {
+            "name": "YouTube for Developers",
+            "url": "https://www.youtube.com/yt/dev/"
+        },
+        {
+            "name": "Sketch Developer API",
+            "url": "http://developer.sketchapp.com/"
+        },
+        {
+            "name": "TinyPNG Developer API",
+            "url": "https://tinypng.com/developers"
+        },
+        {
+            "name": "GIPHY for Developers",
+            "url": "https://developers.giphy.com/"
+        },
+        {
+            "name": "Yahoo Developer Network",
+            "url": "https://developer.yahoo.com/"
+        },
+        {
+            "name": "Last.fm Developer API",
+            "url": "https://www.last.fm/api"
+        },
+        {
+            "name": "Skype for Developers",
+            "url": "https://dev.skype.com/"
+        },
+        {
+            "name": "Freshdesk Developer",
+            "url": "https://developers.freshdesk.com/"
+        },
+        {
+            "name": "Wargaming Developers",
+            "url": "https://developers.wargaming.net/"
+        },
+        {
+            "name": "Telegram API",
+            "url": "https://core.telegram.org/"
+        },
+        {
+            "name": "Disqus Web API",
+            "url": "https://disqus.com/api/docs/"
+        },
+        {
+            "name": "The Imgur API",
+            "url": "https://api.imgur.com/"
+        },
+        {
+            "name": "Wunderlist Developer",
+            "url": "https://developer.wunderlist.com/"
+        },
+        {
+            "name": "NASA API",
+            "url": "https://api.nasa.gov/"
+        },
+        {
+            "name": "Mozilla Developer",
+            "url": "https://developer.mozilla.org/"
+        },
+        {
+            "name": "Hürriyet Public API",
+            "url": "https://developers.hurriyet.com.tr/"
+        },
+        {
+            "name": "Dailymotion Developer",
+            "url": "https://developer.dailymotion.com/"
+        },
+        {
+            "name": "Akbank Developer Portal",
+            "url": "https://apiportal.akbank.com/"
+        },
+        {
+            "name": "Turkish Airlines Developer Portal",
+            "url": "https://developer.turkishairlines.com/"
+        },
+        {
+            "name": "İstanbul Büyükşehir Belediyesi Şehir Haritası Geliştirici Konsolu",
+            "url": "http://sehirharitasi.ibb.gov.tr/developerconsole/"
+        }
+    ]
+}
