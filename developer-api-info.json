@@ -394,6 +394,11 @@
             "id": 79,
             "name": "Kolay İK Public API",
             "url": "https://kolayik.com/apidoc"
+        },
+        {
+            "id": 80,
+            "name": "Paraşüt API",
+            "url": "https://apidocs.parasut.com"
         }
     ]
 }
