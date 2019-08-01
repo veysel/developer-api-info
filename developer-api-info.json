@@ -384,6 +384,11 @@
             "id": 77,
             "name": "Garanti API Store",
             "url": "https://developers.garantibbva.com.tr/"
+        },
+        {
+            "id": 78,
+            "name": "İninal API",
+            "url": "https://developer.ininal.com"
         }
     ]
 }
