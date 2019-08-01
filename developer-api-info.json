@@ -369,6 +369,11 @@
             "id": 74,
             "name": "İstanbul Büyükşehir Belediyesi Şehir Haritası Geliştirici Konsolu",
             "url": "http://sehirharitasi.ibb.gov.tr/developerconsole/"
+        },
+        {
+            "id": 75,
+            "name": "Countly API",
+            "url": "https://resources.count.ly/reference"
         }
     ]
 }
