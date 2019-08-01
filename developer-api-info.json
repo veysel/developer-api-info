@@ -374,6 +374,11 @@
             "id": 75,
             "name": "Countly API",
             "url": "https://resources.count.ly/reference"
+        },
+        {
+            "id": 76,
+            "name": "Foriba Developer Portal",
+            "url": "https://api.fitbulut.com"
         }
     ]
 }
