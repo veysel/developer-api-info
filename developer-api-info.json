@@ -379,6 +379,11 @@
             "id": 76,
             "name": "Foriba Developer Portal",
             "url": "https://api.fitbulut.com"
+        },
+        {
+            "id": 77,
+            "name": "Garanti API Store",
+            "url": "https://developers.garantibbva.com.tr/"
         }
     ]
 }
