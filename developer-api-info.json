@@ -389,6 +389,11 @@
             "id": 78,
             "name": "İninal API",
             "url": "https://developer.ininal.com"
+        },
+        {
+            "id": 79,
+            "name": "Kolay İK Public API",
+            "url": "https://kolayik.com/apidoc"
         }
     ]
 }
